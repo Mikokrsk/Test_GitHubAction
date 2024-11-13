@@ -2,7 +2,8 @@ name: GameCI Template
 
 on: 
  workflow_dispatch:
-  
+   
+   
 
 jobs:
   buildWebGL:
